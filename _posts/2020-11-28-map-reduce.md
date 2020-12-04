@@ -8,7 +8,7 @@ I've written following three articles on [medium](https://www.medium.com) to und
 fundamental operations are carried out using it. This acts as the first steps towards understanding how distributed analytical systems
 process huge amount of data efficiently.
 
-* [How Map Reduce Let You Deal With PetaByte Scale With Ease](https://09kartikeya.medium.com/how-map-reduce-let-you-deal-with-petabyte-scale-with-ease-151fd00b8d1c?source=your_stories_page-------------------------------------).
+* [How Map Reduce Let You Deal With PetaByte Scale With Ease](https://09kartikeya.medium.com/how-map-reduce-let-you-deal-with-petabyte-scale-with-ease-151fd00b8d1c?source=your_stories_page-------------------------------------) (published in [Analytics Vidhya](https://medium.com/analytics-vidhya)).
 
 * [Relational Operations Using MapReduce](https://medium.com/swlh/relational-operations-using-mapreduce-f49e8bd14e31?source=your_stories_page-------------------------------------) (published in [The Startup](https://medium.com/swlh)).
 
