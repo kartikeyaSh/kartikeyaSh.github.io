@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Effects of changing hyperperimeters"
+title:  "Effects Of Changing Hyperperimeters"
 date:   2020-11-28
 ---
 
