@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Hi, I'm Kartikeya Sharma. I'm a Machine Learning Engineer at Mad Street Den, where I build ML pipelines and ML systems using terabytes of user interection data.
+
 To know about me look at my profiles:
 
 * [Linkedin](https://www.linkedin.com/in/kartikeyash/).
